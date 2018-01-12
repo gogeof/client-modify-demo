@@ -16,10 +16,10 @@ import org.example.login.dao.UserDao;
 public class Logout extends HttpServlet {
     public void doGet(HttpServletRequest req,HttpServletResponse resp) throws ServletException,IOException{
         resp.setContentType("text/html;charset=utf-8");
-        String name=req.getParameter("name");
-        HttpSession hs=req.getSession();
-        hs.setAttribute("user",null);
-        req.getRequestDispatcher("login.jsp").forward(req, resp);
+        //String name=req.getParameter("name");
+        //HttpSession hs=req.getSession();
+        //hs.setAttribute("user",null);
+        resp.sendRedirect("https://cas.example.org:8443/cas/logout?service=https://cas.example.org:8443/client-modify-demo/login.jsp");
     }
     public void doPost(HttpServletRequest req,HttpServletResponse resp) throws ServletException, IOException{
         doGet(req, resp);
