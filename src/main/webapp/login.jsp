@@ -27,7 +27,6 @@
                 <td></td>
                 <td>
                     <input type="submit" value="提交">
-                    <input type="button" onclick="window.location.href='register.jsp'" value="注册"/>
                 </td>
             </tr>
         </table>

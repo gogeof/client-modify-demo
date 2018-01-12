@@ -14,9 +14,7 @@
         </tr>
         <tr>
             <td  align="center">
-                <input type="button" onclick="window.location.href='change.jsp'" value="修改"/>
                 <input type="button" onclick="window.location.href='logout.jsp'" value="注销"/>
-                <input type="button" onclick="window.location.href='delete.jsp'" value="删除"/>
             </td>
         </tr>
     </table>

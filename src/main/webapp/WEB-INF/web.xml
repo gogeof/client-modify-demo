@@ -28,33 +28,6 @@
         <url-pattern>/logout</url-pattern>
     </servlet-mapping>
 
-    <servlet>
-        <servlet-name>Register</servlet-name>
-        <servlet-class>org.example.login.servlet.Register</servlet-class>
-    </servlet>
-    <servlet-mapping>
-        <servlet-name>Register</servlet-name>
-        <url-pattern>/register</url-pattern>
-    </servlet-mapping>
-
-    <servlet>
-        <servlet-name>Delete</servlet-name>
-        <servlet-class>org.example.login.servlet.Delete</servlet-class>
-    </servlet>
-    <servlet-mapping>
-        <servlet-name>Delete</servlet-name>
-        <url-pattern>/delete</url-pattern>
-    </servlet-mapping>
-
-    <servlet>
-        <servlet-name>Change</servlet-name>
-        <servlet-class>org.example.login.servlet.Change</servlet-class>
-    </servlet>
-    <servlet-mapping>
-        <servlet-name>Change</servlet-name>
-        <url-pattern>/change</url-pattern>
-    </servlet-mapping>
-
     <!-- 修改前 -->
     <filter>
         <filter-name>auth</filter-name>

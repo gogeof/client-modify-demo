@@ -33,7 +33,7 @@ public class AuthFilter implements Filter{
         //简单判断缓存中是否有用户
         if(user==null || user.equals("")){//没有用户
             //判断用户是否是选择跳到登录界面
-            if(uri.endsWith("login.jsp")||uri.endsWith("login.do")||uri.endsWith("register.jsp")){
+            if(uri.endsWith("login.jsp")||uri.endsWith("login.do")){
                 chain.doFilter(request, response);
             }else{
                 resp.sendRedirect(req.getContextPath()+"/login.jsp");
@@ -41,7 +41,6 @@ public class AuthFilter implements Filter{
         }else{//有用户
             chain.doFilter(request, response);
         }
-        chain.doFilter(request, response);
     }
 
     public void init(FilterConfig filterConfig) throws ServletException {
