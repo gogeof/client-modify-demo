@@ -2,19 +2,137 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13d6316c-1c41-4db5-aba8-ca16dcf6a212" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/example/login/servlet/Change.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/example/login/servlet/Delete.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/example/login/servlet/Register.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/change.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/delete.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/register.jsp" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_attrs_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aspectj_aspectjrt_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aspectj_aspectjweaver_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ca_juliusdavies_not_yet_commons_ssl_0_3_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_2_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_jta_1_0_1B.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_xmldsig_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jdom_jdom_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_1_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_1_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_2_6_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_santuario_xmlsec_1_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15_1_45.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_ejb3_persistence_1_0_1_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_3_2_6_ga.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_annotations_3_3_1_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_commons_annotations_3_0_0_ga.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_inspektr_inspektr_core_0_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jasig_cas_cas_server_core_3_3_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jasig_cas_cas_server_support_jdbc_3_3_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jasig_cas_client_cas_client_core_3_3_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jasig_service_person_directory_api_1_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jasig_service_person_directory_impl_1_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opensaml_opensaml_2_5_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opensaml_openws_1_4_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opensaml_xmltooling_1_3_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_owasp_esapi_esapi_2_0GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_2_5_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_binding_1_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_2_5_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_2_5_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_2_5_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_2_5_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_2_5_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_2_5_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_2_5_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webflow_1_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_2_5_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__velocity_velocity_1_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_10_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_resolver_xml_resolver_1_2.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/META-INF/LICENSE" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/META-INF/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/META-INF/MANIFEST.MF" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/META-INF/NOTICE" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/META-INF/NOTICE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/META-INF/maven/org.jasig.cas.client/cas-client-core/pom.properties" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/META-INF/maven/org.jasig.cas.client/cas-client-core/pom.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/META-INF/maven/org.jasig.cas.client/cas-client-core/pom.xml" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/META-INF/maven/org.jasig.cas.client/cas-client-core/pom.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/AttributePrincipal.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/AttributePrincipal.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/AttributePrincipalImpl.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/AttributePrincipalImpl.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/AuthenticationFilter.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/AuthenticationFilter.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/AuthenticationRedirectStrategy.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/AuthenticationRedirectStrategy.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/ContainsPatternUrlPatternMatcherStrategy.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/ContainsPatternUrlPatternMatcherStrategy.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/DefaultAuthenticationRedirectStrategy.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/DefaultAuthenticationRedirectStrategy.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/DefaultGatewayResolverImpl.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/DefaultGatewayResolverImpl.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/ExactUrlPatternMatcherStrategy.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/ExactUrlPatternMatcherStrategy.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/FacesCompatibleAuthenticationRedirectStrategy.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/FacesCompatibleAuthenticationRedirectStrategy.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/GatewayResolver.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/GatewayResolver.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/RegexUrlPatternMatcherStrategy.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/RegexUrlPatternMatcherStrategy.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/Saml11AuthenticationFilter.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/Saml11AuthenticationFilter.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/SimpleGroup.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/SimpleGroup.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/SimplePrincipal.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/SimplePrincipal.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/UrlPatternMatcherStrategy.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/authentication/UrlPatternMatcherStrategy.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/jaas/AssertionPrincipal.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/jaas/AssertionPrincipal.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/jaas/CasLoginModule.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/jaas/CasLoginModule.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/jaas/ServiceAndTicketCallbackHandler.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/jaas/ServiceAndTicketCallbackHandler.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/jaas/Servlet3AuthenticationFilter.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/jaas/Servlet3AuthenticationFilter.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/jaas/TicketCredential.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/jaas/TicketCredential.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/proxy/AbstractEncryptedProxyGrantingTicketStorageImpl.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/proxy/AbstractEncryptedProxyGrantingTicketStorageImpl.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/proxy/Cas20ProxyRetriever.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/proxy/Cas20ProxyRetriever.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/proxy/CleanUpTimerTask.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/proxy/CleanUpTimerTask.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/proxy/ProxyGrantingTicketStorage.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/proxy/ProxyGrantingTicketStorage.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/proxy/ProxyGrantingTicketStorageImpl.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/proxy/ProxyGrantingTicketStorageImpl.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/proxy/ProxyRetriever.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/proxy/ProxyRetriever.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/session/HashMapBackedSessionMappingStorage.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/session/HashMapBackedSessionMappingStorage.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/session/SessionMappingStorage.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/session/SessionMappingStorage.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/session/SingleSignOutFilter.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/session/SingleSignOutFilter.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/session/SingleSignOutHandler.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/session/SingleSignOutHandler.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/session/SingleSignOutHttpSessionListener.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/session/SingleSignOutHttpSessionListener.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/ssl/AnyHostnameVerifier.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/ssl/AnyHostnameVerifier.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/ssl/HttpURLConnectionFactory.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/ssl/HttpURLConnectionFactory.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/ssl/HttpsURLConnectionFactory.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/ssl/HttpsURLConnectionFactory.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/ssl/RegexHostnameVerifier.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/ssl/RegexHostnameVerifier.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/ssl/WhitelistHostnameVerifier.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/ssl/WhitelistHostnameVerifier.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/util/AbstractCasFilter.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/util/AbstractCasFilter.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/util/AbstractConfigurationFilter.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/util/AbstractConfigurationFilter.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/util/AssertionHolder.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/util/AssertionHolder.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/util/AssertionThreadLocalFilter.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/util/AssertionThreadLocalFilter.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/util/CommonUtils.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/util/CommonUtils.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/util/DelegatingFilter.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/util/DelegatingFilter.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/util/ErrorRedirectFilter.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/util/ErrorRedirectFilter.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/util/HttpServletRequestWrapperFilter.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/util/HttpServletRequestWrapperFilter.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/util/ReflectUtils.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/util/ReflectUtils.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/util/XmlUtils.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/util/XmlUtils.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/AbstractCasProtocolUrlBasedTicketValidator.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/AbstractCasProtocolUrlBasedTicketValidator.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/AbstractTicketValidationFilter.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/AbstractTicketValidationFilter.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/AbstractUrlBasedTicketValidator.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/AbstractUrlBasedTicketValidator.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/Assertion.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/Assertion.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/AssertionImpl.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/AssertionImpl.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/Cas10TicketValidationFilter.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/Cas10TicketValidationFilter.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/Cas10TicketValidator.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/Cas10TicketValidator.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/Cas20ProxyReceivingTicketValidationFilter.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/Cas20ProxyReceivingTicketValidationFilter.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/Cas20ProxyTicketValidator.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/Cas20ProxyTicketValidator.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/Cas20ServiceTicketValidator.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/Cas20ServiceTicketValidator.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/InvalidProxyChainTicketValidationException.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/InvalidProxyChainTicketValidationException.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/ProxyList.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/ProxyList.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/ProxyListEditor.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/ProxyListEditor.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/Saml11TicketValidationFilter.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/Saml11TicketValidationFilter.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/Saml11TicketValidator.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/Saml11TicketValidator.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/TicketValidationException.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/TicketValidationException.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/TicketValidator.class" afterPath="$PROJECT_DIR$/lib/cas-client-core-3.3.3.jar/org/jasig/cas/client/validation/TicketValidator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/login_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/login_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.sh" afterPath="$PROJECT_DIR$/build.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/example/filter/AuthFilter.java" afterPath="$PROJECT_DIR$/src/main/java/org/example/filter/AuthFilter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.iml" afterPath="$PROJECT_DIR$/login.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/success.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/success.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,33 +144,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AuthFilter.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/example/filter/AuthFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="36" column="50" lean-forward="false" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="40" lean-forward="false" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+            <state relative-caret-position="761">
+              <caret line="46" column="21" lean-forward="false" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+            <state relative-caret-position="407">
+              <caret line="92" column="37" lean-forward="true" selection-start-line="92" selection-start-column="37" selection-end-line="92" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -77,7 +183,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/org/example/login/bean/User.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
                 <element signature="e#268#269#0" expanded="true" />
                 <element signature="e#299#300#0" expanded="true" />
@@ -90,7 +196,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/org/example/login/servlet/Login.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="31" column="41" lean-forward="true" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+              <caret line="31" column="41" lean-forward="false" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -120,7 +226,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/logout.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+              <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -174,11 +280,11 @@
         <option value="$PROJECT_DIR$/src/main/webapp/logout.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/org/example/login/servlet/Logout.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/example/login/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/login.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/success.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/java/org/example/filter/AuthFilter.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
       </list>
     </option>
   </component>
@@ -230,6 +336,11 @@
             <path>
               <item name="login" type="b2602c69:ProjectViewProjectNode" />
               <item name="login" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login" type="b2602c69:ProjectViewProjectNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -252,54 +363,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="login" type="b2602c69:ProjectViewProjectNode" />
-              <item name="login" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="filter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="login" type="b2602c69:ProjectViewProjectNode" />
-              <item name="login" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="login" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="login" type="b2602c69:ProjectViewProjectNode" />
-              <item name="login" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="login" type="462c0819:PsiDirectoryNode" />
-              <item name="bean" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="login" type="b2602c69:ProjectViewProjectNode" />
-              <item name="login" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="login" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="login" type="b2602c69:ProjectViewProjectNode" />
-              <item name="login" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="login" type="462c0819:PsiDirectoryNode" />
-              <item name="servlet" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="login" type="b2602c69:ProjectViewProjectNode" />
@@ -315,6 +378,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login" type="b2602c69:ProjectViewProjectNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -336,6 +408,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
       <recent name="$PROJECT_DIR$/src/main" />
     </key>
   </component>
@@ -449,10 +522,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10892000" />
+    <option name="totallyTimeSpent" value="11074000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -464,10 +538,11 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33019853" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -477,12 +552,33 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33019853" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -496,63 +592,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/filter/AuthFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="19" column="42" lean-forward="false" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/login/servlet/Change.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/login/servlet/Delete.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="24" column="29" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/login/servlet/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="32" column="38" lean-forward="false" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/login/servlet/Register.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="31" lean-forward="false" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/register.jsp" />
-    <entry file="file://$PROJECT_DIR$/WebContent/success.jsp" />
-    <entry file="file://$PROJECT_DIR$/WebContent/test.jsp" />
-    <entry file="file://$PROJECT_DIR$/WebContent/delete.jsp" />
-    <entry file="file://$PROJECT_DIR$/WebContent/change.jsp" />
-    <entry file="file://$PROJECT_DIR$/WebContent/login.jsp" />
-    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/web.xml" />
     <entry file="file://$PROJECT_DIR$/WebContent/META-INF/MANIFEST.MF" />
     <entry file="jar://$PROJECT_DIR$/lib/javax.servlet.jar!/javax/servlet/http/HttpSession.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -618,14 +657,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="40" lean-forward="false" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/example/login/servlet/Logout.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -666,6 +697,148 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/success.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/filter/AuthFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="35" column="68" lean-forward="true" selection-start-line="35" selection-start-column="68" selection-end-line="35" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="37" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/logout.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="28" column="52" lean-forward="false" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/filter/AuthFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="19" column="42" lean-forward="false" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/login/servlet/Change.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/login/servlet/Delete.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/login/servlet/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="32" column="38" lean-forward="false" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/login/servlet/Register.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="31" lean-forward="false" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/register.jsp" />
+    <entry file="file://$PROJECT_DIR$/WebContent/success.jsp" />
+    <entry file="file://$PROJECT_DIR$/WebContent/test.jsp" />
+    <entry file="file://$PROJECT_DIR$/WebContent/delete.jsp" />
+    <entry file="file://$PROJECT_DIR$/WebContent/change.jsp" />
+    <entry file="file://$PROJECT_DIR$/WebContent/login.jsp" />
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/WebContent/META-INF/MANIFEST.MF" />
+    <entry file="jar://$PROJECT_DIR$/lib/javax.servlet.jar!/javax/servlet/http/HttpSession.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="26" column="11" lean-forward="false" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/login/servlet/Delete.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/test.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/login/servlet/Change.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/login/servlet/Register.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/register.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/change.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/delete.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/login/servlet/Logout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/login/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="24" column="54" lean-forward="false" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
+          <folding>
+            <marker date="1515741452953" expanded="true" signature="1090:1119" ph="insert into user... " />
+            <marker date="1515741452953" expanded="true" signature="1749:1790" ph="select * fro... user" />
+            <marker date="1515741452953" expanded="true" signature="2510:2549" ph="delete from " />
+            <marker date="1515741452953" expanded="true" signature="2805:2887" ph="update user " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/login/bean/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/login/servlet/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="31" column="41" lean-forward="false" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/login.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="472">
@@ -685,26 +858,34 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/logout.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/example/filter/AuthFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="36" column="50" lean-forward="false" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
+        <state relative-caret-position="259">
+          <caret line="35" column="68" lean-forward="false" selection-start-line="35" selection-start-column="68" selection-end-line="35" selection-end-column="68" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="761">
+          <caret line="46" column="21" lean-forward="false" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="92" column="37" lean-forward="true" selection-start-line="92" selection-start-column="37" selection-end-line="92" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
